@@ -399,7 +399,7 @@ user prompt encounters at the remote-end. This is defined by
 
 ## setWindowRect
 
-This command alters the size and position of the current 
+This command alters the size and position of the current XX
 browsing context window. This command acts as setter 
 to `getWindowRect` command which accepts **width**, **height**,
 **x**, **y** as _optional_ arguments.

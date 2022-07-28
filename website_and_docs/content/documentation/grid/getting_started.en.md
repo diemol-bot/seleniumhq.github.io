@@ -10,7 +10,7 @@ aliases: [
 ]
 ---
 
-## Grid roles
+## Grid roles & usage modes
 
 Several [components]({{< ref "components.md" >}}) compose a Selenium Grid. Depending 
 on your needs, you can start each one of them on its own, or a few at the same time by using a
